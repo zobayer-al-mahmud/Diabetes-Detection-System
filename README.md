@@ -305,7 +305,8 @@ If you encounter any issues or have questions:
 ---
 
 
-https://github.com/user-attachments/assets/cff26848-8fc5-422e-97ab-dd1c49cfab20
+[Desktop 2025.09.10 - 00.28.22.04.webm](https://github.com/user-attachments/assets/4150aba7-0879-4c51-9784-4ebdb138c9f2)
+
 
 
 **Built with ❤️ for educational purposes**
