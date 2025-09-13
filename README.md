@@ -302,7 +302,7 @@ If you encounter any issues or have questions:
 3. Ensure both backend and frontend servers are running
 4. Check that the model files were generated successfully
 
----
+----
 
 
 [Desktop 2025.09.10 - 00.28.22.04.webm](https://github.com/user-attachments/assets/4150aba7-0879-4c51-9784-4ebdb138c9f2)
